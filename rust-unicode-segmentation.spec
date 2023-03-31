@@ -6,7 +6,7 @@
 
 Name:           rust-%{crate}
 Version:        1.7.1
-Release:        1
+Release:        2
 Summary:        Grapheme Cluster, Word and Sentence boundaries
 
 # Upstream license specification: MIT/Apache-2.0
